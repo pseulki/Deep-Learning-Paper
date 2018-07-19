@@ -15,5 +15,5 @@
 
 ## Results
 
-- **Train Time**:  seconds
+- **Train Time**:  9,609 seconds
 - **Best Accuracy**: 79.61%
