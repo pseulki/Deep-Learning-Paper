@@ -7,14 +7,14 @@
 
 ## Hyperparameter Setting
 
-- **Batch Size**: 128
+- **Batch Size**: 256
 - **Optimizer**: SGD
 - **Learning Rate**: 0.001 (momentum=0.9, weight_decay=0.0001)
-- **Num Epochs**: 1,000
+- **Num Epochs**: 200
 - **Loss Function**: CrossEntropyLoss
 
 ## Results
 
-- **Train Time**:  7,744 seconds
-- **Best Accuracy**: 79.84%
+- **Train Time**:  1,850 seconds
+- **Accuracy**: 74.85%
 
