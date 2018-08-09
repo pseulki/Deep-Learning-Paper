@@ -105,3 +105,4 @@ venv.bak/
 # mypy
 data/
 conv_checkpoint/
+.idea/
