@@ -1,3 +1,8 @@
+"""
+This file is for preprocessing captions and building vocabulary data.
+
+"""
+
 import nltk
 import pickle
 import argparse

@@ -1,19 +1,14 @@
 """
-'Show, Attend and Tell(https://arxiv.org/abs/1502.03044)'
+This file is for:
+1. building CNN model for encoding
+2. building RNN with attention model for decoding
 
-Reference:
- - https://github.com/alecwangcq/show-attend-and-tell/
- - https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/image_captioning
-Modified some parts.
-i
 """
 
 
 import torch
 import torch.nn as nn
 import torchvision.models as models
-from torch.autograd import Variable
-from torch.nn.utils.rnn import pack_padded_sequence
 
 def to_var(x, volatile=False):
     if torch.cuda.is_available():

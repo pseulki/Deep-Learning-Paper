@@ -1,3 +1,7 @@
+"""
+This file includes some functions for visualization in jupyter notebook
+"""
+
 import torch
 import torch.utils.data as data
 from os import listdir
@@ -7,7 +11,6 @@ from PIL import Image
 import skimage.transform
 import os
 
-from torch.autograd import Variable
 
 def get_loader(root, files, transform, batch_size, shuffle, num_workers):
 

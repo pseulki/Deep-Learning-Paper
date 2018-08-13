@@ -1,11 +1,11 @@
+"""
+Test
+"""
+
 import torch
-import matplotlib.pyplot as plt
-import numpy as np 
 import argparse
 import pickle 
-import os
-from torchvision import transforms 
-from build_vocab import Vocabulary
+from torchvision import transforms
 from model import EncoderCNN, DecoderRNN
 from PIL import Image
 
