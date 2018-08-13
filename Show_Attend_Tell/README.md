@@ -8,3 +8,5 @@ Here are some comments:
 3. Decoder: RNN with Soft Attention
 4. I refer to many of codes from https://github.com/alecwangcq/show-attend-and-tell/
 
+Result:
+![alt text](https://github.com/pseulki/Deep-Learning-Paper/blob/master/Show_Attend_Tell/data/example_bus.png)
