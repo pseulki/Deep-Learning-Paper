@@ -9,4 +9,4 @@ Here are some comments:
 4. I refer to many of codes from https://github.com/alecwangcq/show-attend-and-tell/
 
 Result:
-![alt text](https://github.com/pseulki/Deep-Learning-Paper/blob/master/Show_Attend_Tell/data/example_bus.png)
+![alt text](https://github.com/pseulki/Deep-Learning-Paper/blob/master/3_Show_Attend_Tell/data/example_bus.png)
