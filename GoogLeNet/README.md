@@ -1,5 +1,5 @@
 # GoogleNet
-
+https://arxiv.org/abs/1409.4842
 
 ## Dataset
 
