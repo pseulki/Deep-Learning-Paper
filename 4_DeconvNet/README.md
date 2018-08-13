@@ -2,4 +2,4 @@
 https://arxiv.org/abs/1311.2901
 
 Result:
-![alt text](https://github.com/pseulki/Deep-Learning-Paper/blob/master/Show_Attend_Tell/data/example_bus.png)
+![alt text](https://github.com/pseulki/Deep-Learning-Paper/blob/master/4_DeconvNet/image/deconv.png)
