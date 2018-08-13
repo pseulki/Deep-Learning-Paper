@@ -88,7 +88,7 @@ def attention_visualization(root, image_name, caption, alphas):
         if t > 18:
             break
         plt.subplot(4, 5, t + 2)
-        plt.text(0, 1, '%s' % (words[t]), color='black', backgroundcolor='white', fontsize=10)
+        plt.text(0, 1, '%s' % (words[t]), color='black', backgroundcolor='white', fontsize=14)
         plt.imshow(image)
         # print alphas
         alp_curr = alphas[t, :].view(14, 14)
